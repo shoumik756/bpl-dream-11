@@ -1,0 +1,102 @@
+[
+    {
+        "playerId": "1",
+        "name": "Jasprit Bumrah",
+        "country": "India",
+        "image": "https://i.ibb.co.com/KL7thzL/Jasprit-Bumrah.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": "1,500,000"
+    },
+    {
+        "playerId": "2",
+        "name": "Fakhar Zaman",
+        "country": "Pakistan",
+        "image": "https://i.ibb.co.com/Fmpcx3m/Fakhar-Zaman.jpg",
+        "role": "Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": "800,000"
+    },
+    {
+        "playerId": "3",
+        "name": "Anrich Nortje",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/6NmTB9v/Anrich-Nortje.jpg",
+        "role": "Bowler",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm fast",
+        "biddingPrice": "1,200,000"
+    },
+    {
+        "playerId": "4",
+        "name": "Rohit Sharma",
+        "country": "India",
+        "image": "https://i.ibb.co.com/w6mcQ90/Rohit-Sharma.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Off spin",
+        "biddingPrice": "2,000,000"
+    },
+    {
+        "playerId": "5",
+        "name": "Quinton de Kock",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/vBpggVV/Quinton-de-Kock.jpg",
+        "role": "Wicketkeeper Batsman",
+        "battingType": "Left-hand bat",
+        "bowlingType": "N/A",
+        "biddingPrice": "1,100,000"
+    },
+    {
+        "playerId": "6",
+        "name": "Tristan Stubbs",
+        "country": "South Africa",
+        "image": "https://i.ibb.co.com/WzFmHVZ/Tristan-Stubbs.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm offbreak",
+        "biddingPrice": "700,000"
+    },
+    {
+        "playerId": "7",
+        "name": "Arshdeep Singh",
+        "country": "India",
+        "image": "https://i.ibb.co.com/VJXGy7H/Arshdeep-Singh.jpg",
+        "role": "Bowler",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm fast",
+        "biddingPrice": "900,000"
+    },
+    {
+        "playerId": "8",
+        "name": "Rahmanullah Gurbaz",
+        "country": "Afghanistan",
+        "image": "https://i.ibb.co.com/dMcmMzy/Rahmanullah-Gurbaz.jpg",
+        "role": "Batsman",
+        "battingType": "Right-hand bat",
+        "bowlingType": "Right-arm legbreak",
+        "biddingPrice": "850,000"
+    },
+    {
+        "playerId": "9",
+        "name": "Corey Anderson",
+        "country": "United States",
+        "image": "https://i.ibb.co.com/wByhXRy/Corey-Anderson.jpg",
+        "role": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm fast-medium",
+        "biddingPrice": "600,000"
+    },
+    {
+        "playerId": "10",
+        "name": "Rachin Ravindra",
+        "country": "New Zealand",
+        "image": "https://i.ibb.co.com/86nqhv2/Rachin-Ravindra.jpg",
+        "role": "All-rounder",
+        "battingType": "Left-hand bat",
+        "bowlingType": "Left-arm spin",
+        "biddingPrice": "950,000"
+    }
+]
